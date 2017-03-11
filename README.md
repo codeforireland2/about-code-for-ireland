@@ -7,6 +7,11 @@ Head over to the WIKI  to help define us!
 https://github.com/codeforireland2/about-code-for-ireland/wiki
 
 # Really important stuff
+## Main project
+We are all working on one key problem - Water Quality. Find out more in the wiki
+[TODO: Wiki page on the Water project]
+
+
 ## Our Website
 http://www.codeforireland.com
 
