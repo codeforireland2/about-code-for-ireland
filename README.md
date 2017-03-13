@@ -17,4 +17,4 @@ http://www.codeforireland.com
 If you want to be involved in Code for Ireland, [click here](https://github.com/codeforireland2/about-code-for-ireland/wiki/How-to-join)
 
 ## Events
-Check out the Calendar [here](https://github.com/codeforireland2/about-code-for-ireland/blob/master/Calendar)
+Check out the Calendar [here](https://calendar.google.com/calendar/embed?src=7u3p29un5v0lugbn5i72o5bsg0%40group.calendar.google.com&ctz=Europe/Dublin)
