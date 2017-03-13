@@ -15,3 +15,6 @@ http://www.codeforireland.com
 
 ## Signing up!
 If you want to be involved in Code for Ireland, [click here](https://github.com/codeforireland2/about-code-for-ireland/wiki/How-to-join)
+
+## Events
+Check out the Calendar [here](https://github.com/codeforireland2/about-code-for-ireland/blob/master/Calendar)
